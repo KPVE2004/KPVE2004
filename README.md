@@ -124,6 +124,15 @@ Microservices-based fleet management system with a driver fatigue detection serv
 
 ---
 
+#### 🛍️ BC Boutique
+`Completed` · HTML · CSS · JavaScript · Figma
+
+Web page for a fashion boutique, designed from scratch in Figma (18 screens) and implemented across 7 interactive pages. Built the full front-end (home, product catalog, product detail, cart, favorites, login, search modal, and mobile menu).
+
+🔗 [github.com/KPVE2004/bc-boutique](https://github.com/KPVE2004/bc-boutique) · 🎨 [Figma design](https://www.figma.com/design/c2TiMDu4DdoOD15Pn974iY/IU?node-id=0-1&p=f&t=SXgQbtge4eQZHLt2-0)
+
+---
+
 ## 🇲🇽 Español
 
 ### Sobre mí
@@ -238,6 +247,15 @@ Agente de chat con LangChain y Groq. Rediseñé la interfaz del chat y agregué 
 Sistema de gestión de flotillas basado en microservicios, con servicio de detección de fatiga que genera alertas en tiempo real. Aparezco como **Development Team** en el README del proyecto. Flujo Scrum con JIRA, ramas por historia de usuario y Pull Requests.
 
 🔗 [github.com/AngelCanelaaa/gestion-flotillas-ia](https://github.com/AngelCanelaaa/gestion-flotillas-ia)
+
+---
+
+#### 🛍️ BC Boutique
+`Completado` · HTML · CSS · JavaScript · Figma
+
+Página web para una boutique de moda, diseñada desde cero en Figma (18 pantallas) e implementada en 7 páginas interactivas. Desarrollé el frontend completo (inicio, catálogo de productos, detalle, cesta, favoritos, login, modal de búsqueda y menú móvil).
+
+🔗 [github.com/KPVE2004/bc-boutique](https://github.com/KPVE2004/bc-boutique) · 🎨 [Diseño en Figma](https://www.figma.com/design/c2TiMDu4DdoOD15Pn974iY/IU?node-id=0-1&p=f&t=SXgQbtge4eQZHLt2-0)
 
 ---
 
