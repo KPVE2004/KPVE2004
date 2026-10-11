@@ -12,7 +12,7 @@
 ### About me
 
 - 9th-semester **Systems Engineering** student at TecNM – Instituto Tecnológico de Jiquilpan (GPA 90.81)
-- Specialization in **Web & Mobile Application Development**
+- Specialization in **Intelligent Web-Mobile Application Development**
 - Focused on **frontend development** and **UI design**
 - I integrate AI models (TensorFlow / Keras) through **FastAPI** APIs
 - Currently looking for **professional internships** in software development
@@ -138,7 +138,7 @@ Web page for a fashion boutique, designed from scratch in Figma (18 screens) and
 ### Sobre mí
 
 - Estudiante de 9.º semestre de **Ingeniería en Sistemas Computacionales** en el TecNM – Instituto Tecnológico de Jiquilpan (promedio 90.81)
-- Especialidad en **Desarrollo de Aplicaciones Web y Móviles**
+- Especialidad en **Desarrollo de Aplicaciones Inteligentes Web-Móvil**
 - Enfocada en **desarrollo frontend** y **diseño de interfaces**
 - Integro modelos de IA (TensorFlow / Keras) mediante APIs con **FastAPI**
 - Actualmente busco realizar mis **residencias profesionales** en desarrollo de software
